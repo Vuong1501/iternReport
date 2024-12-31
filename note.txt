@@ -1,0 +1,2 @@
+đăng kí xong(đã validate)
+đăng nhập xong(đã validate)
